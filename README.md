@@ -1,11 +1,34 @@
-# Sample Snack app
+# What's that?
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+That's the very start of react native application. Generally for studying purposes a small interactive shop is supposed to be soon
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.io/get-started/installation).
+# Installation with terminal
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+To see it you can just load it in https://snack.expo.dev/@oxidit/animated-skeleton-loader
+and I'll be constantly changeing that
+ 
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io/c/snack).
+# Currently supported functionality 
+Functionality leaves much to be desired, I know, but I'm adding new functions and hopefully will finish this shop-template asap :smirk: 
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+When the app(if it can be called like that now) is open you'll see the following picture:
+
+![Main screen](https://github.com/Oxidit/ReactNative/blob/main/Screenshot1.jpg "")
+___________________________________________________________
+![Main screen](https://github.com/Oxidit/ReactNative/blob/main/ScreenRecorder.gif "")
+
+ 
+
+
+# Currently supported functionality
+
+* Right now it only loads some data, but I'll be adding login form, basket and all shopping app functionality
+ 
+
+
+# Terms and conditions.
+
+Absolutely no any terms or conditions.
+Please, feel free to use whatever you like :smile:
+
+ 
